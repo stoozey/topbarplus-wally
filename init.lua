@@ -61,8 +61,8 @@ end
 
 
 -- MODULES
-local Signal = require(iconModule.Packages.GoodSignal)
-local Janitor = require(iconModule.Packages.Janitor)
+local Signal = require(iconModule.GoodSignal)
+local Janitor = require(iconModule.Janitor)
 local Utility = require(iconModule.Utility)
 local Attribute = require(iconModule.Attribute)
 local Themes = require(iconModule.Features.Themes)

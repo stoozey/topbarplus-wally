@@ -1,6 +1,6 @@
 [package]
 name = "stoozey/topbarplus-wally"
-version = "3.0.2"
+version = "3.0.5"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 

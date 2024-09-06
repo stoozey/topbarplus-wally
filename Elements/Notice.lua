@@ -36,7 +36,7 @@ return function(icon, Icon)
 	noticeLabel.Parent = notice
 	
 	local iconModule = script.Parent.Parent
-	local packages = iconModule.Packages
+	local packages = iconModule
 	local Janitor = require(packages.Janitor)
 	local Signal = require(packages.GoodSignal)
 	local Utility = require(iconModule.Utility)
